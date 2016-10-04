@@ -1,2 +1,2 @@
 # hello-world
-la prima repository non si corda mai
+la prima repository non si Scorda mai
